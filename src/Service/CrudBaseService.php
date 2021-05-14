@@ -71,7 +71,3 @@ class CrudBaseService
         return $this->model->delete($id);
     }
 }
-//bokgolf5_wp_website
-//bokgolf5_website
-//xzmRT8wSAv
-
