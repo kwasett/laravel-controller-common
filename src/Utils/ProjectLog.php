@@ -1,5 +1,4 @@
 <?php
-
 namespace Kwasett\LaravelCommon\Utils;
 
 use Illuminate\Support\Facades\Log;

@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: andela
- * Date: 04/01/2020
- * Time: 6:45 AM
- */
-
 namespace Kwasett\LaravelCommon\Controller;
 
 use Kwasett\LaravelCommon\Service\CrudBaseInterface;

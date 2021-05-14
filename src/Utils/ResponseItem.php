@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: andela
- * Date: 07/12/2019
- * Time: 5:03 AM
- */
 
 namespace Kwasett\LaravelCommon\Utils;
 

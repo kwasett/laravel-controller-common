@@ -1,5 +1,4 @@
 <?php
-
 namespace Kwasett\LaravelCommon\Service;
 
 use Illuminate\Database\Eloquent\Model;
