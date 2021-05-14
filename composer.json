@@ -1,0 +1,31 @@
+{
+  "name": "kwasett/laravel-controller-common",
+  "type": "library",
+  "description": "Controller Bootstrapping",
+  "keywords": [
+    "laravel",
+    "controller",
+    "service"
+  ],
+  "homepage": "http://adarkwa.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Seth Kwakwa",
+      "email": "kwasett@gmail.co",
+      "homepage": "http://adarkwa.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "illuminate/routing": "^v7.0.0",
+    "illuminate/database": "^v7.0.0",
+    "illuminate/http": "^v7.0.0",
+    "illuminate/foundation": "^v1.1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kwasett\\LaravelCommon\\": ""
+    }
+  }
+}
